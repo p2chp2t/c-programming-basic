@@ -1,7 +1,3 @@
-//assignment1
-//학번: 20220041
-//이름: 김유진
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
